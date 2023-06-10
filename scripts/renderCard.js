@@ -1,5 +1,3 @@
-// import { showCartProducts } from './cart'
-
 const wrapper = document.querySelector('#wrapper')
 
 export function cards(datas) {
@@ -33,6 +31,4 @@ export function cards(datas) {
         </div>
     </div>`
   }).join('')
-
-//   showCartProducts()
 }
