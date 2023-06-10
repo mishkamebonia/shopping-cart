@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "productName": "Samsung Galaxy S21",
+    "price": 999,
+    "rating": 4.5,
+    "description": "The Samsung Galaxy S21 is a powerful smartphone with a stunning display.",
+    "categoryId": 1,
+    "brandId": 1,
+    "src": "https://m.media-amazon.com/images/I/61uhL-Bb4xL.jpg"
+  },
+  {
+    "id": 2,
+    "productName": "Apple iPhone 12",
+    "price": 1099,
+    "rating": 4.7,
+    "description": "The Apple iPhone 12 is a sleek and feature-packed smartphone with a powerful A14 Bionic chip.",
+    "categoryId": 1,
+    "brandId": 2,
+    "src": "https://www.discounteri.ge/images/detailed/8/112588-1.jpg"
+  },
+  {
+    "id": 3,
+    "productName": "Dell XPS 13",
+    "price": 1599,
+    "rating": 4.8,
+    "description": "The Dell XPS 13 is a lightweight and high-performance laptop with an edge-to-edge.",
+    "categoryId": 2,
+    "brandId": 3,
+    "src": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9315/spi/blue/ng/notebook-xps-13-9315-blue-campaign-hero-504x350-ng.psd?fmt=jpg&wid=570&hei=400"
+  },
+  {
+    "id": 4,
+    "productName": "HP Spectre x360",
+    "price": 1299,
+    "rating": 4.6,
+    "description": "The HP Spectre x360 is a versatile 2-in-1 laptop with a sleek design and powerful performance.",
+    "categoryId": 2,
+    "brandId": 4,
+    "src": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08184765.png"
+  },
+  {
+    "id": 5,
+    "productName": "LG OLED TV",
+    "price": 1999,
+    "rating": 4.9,
+    "description": "The LG OLED TV offers stunning picture quality and an immersive viewing.",
+    "categoryId": 3,
+    "brandId": 5,
+    "src": "https://www.lg.com/us/images/tvs/md06065217/gallery/OLED65C9PUA_1100_v1.jpg"
+  },
+  {
+    "id": 6,
+    "productName": "Sony Bravia 4K TV",
+    "price": 1799,
+    "rating": 4.7,
+    "description": "The Sony Bravia 4K TV delivers lifelike visuals and vibrant colors, making it perfect.",
+    "categoryId": 3,
+    "brandId": 6,
+    "src": "https://sonysmart.com.bd/public/uploads/all/zoWgEDlo4Asmmn6IzvQttXzUUZI3OiY55lRpr0iN.jpg"
+  },
+  {
+    "id": 7,
+    "productName": "HP Pavilion Desktop PC",
+    "price": 899,
+    "rating": 4.4,
+    "description": "The HP Pavilion Desktop PC offers powerful performance and ample storage.",
+    "categoryId": 4,
+    "brandId": 4,
+    "src": "https://www.xbsasia.ph/wp-content/uploads/2023/02/Doc1.jpg"
+  },
+  {
+    "id": 8,
+    "productName": "Lenovo ThinkCentre M93p",
+    "price": 999,
+    "rating": 4.5,
+    "description": "The Lenovo ThinkCentre M93p is a compact and reliable desktop PC designed.",
+    "categoryId": 4,
+    "brandId": 7,
+    "src": "https://i.pcmag.com/imagery/reviews/005H57CFlyyeZqPWeCyyQ5g-4..v1569474934.jpg"
+  },
+  {
+    "id": 9,
+    "productName": "Sony Xperia 5 II",
+    "price": 899,
+    "rating": 4.6,
+    "description": "The Sony Xperia 5 II is a flagship smartphone with a stunning OLED display.",
+    "categoryId": 1,
+    "brandId": 6,
+    "src": "https://m.media-amazon.com/images/I/71ctZEsl1vL._AC_UF894,1000_QL80_.jpg"
+  }
+]

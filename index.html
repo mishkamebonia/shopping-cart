@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>shopping cart</title>
+  </head>
+  <body>
+    <div class="container-box">
+      <nav class="nav">
+        <div class="logo">
+          <button id="logo">
+            shopping cart
+          </button>
+        </div>
+        <div class="row">
+          <div class="cart">
+            <button id="cart">
+              <i class="fa-solid fa-cart-shopping"></i>
+            </button>
+            <div class="cart-badge" id="cart-badge"></div>
+          </div>
+          <div class="wishlist">
+            <button id="wishlist">
+              <i class="fa-solid fa-heart"></i>
+            </button>
+          </div>
+          <div class="modal-bar" id="modal">
+            <button id="modal-close">
+              <i class="fa-solid fa-xmark"></i>
+            </button>
+            <h6 class="header">cart products:</h6>
+            <span class="cart-quantity" id="cart-quantity">123</span>
+            <div class="cart-wrapper" id="cart-wrapper"></div>
+          </div>
+        </div>
+      </nav>
+  
+      <main class="main">
+        <div class="cards-wrapper" id="wrapper"></div>
+      </main>
+    </div>
+
+    <div class="overlay" id="overlay">
+
+    </div>
+
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>

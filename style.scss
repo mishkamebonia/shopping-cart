@@ -1,0 +1,21 @@
+@import url('./styles/_reset.scss');
+
+@import url('./styles/_nav.scss');
+
+@import url('./styles/_main.scss');
+
+@import url('./styles/_modal.scss');
+
+@import url('./styles/_overlay.scss');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.container-box {
+  width: 1200px;
+  max-height: 90vh;
+  margin: 20px;
+}
+
+.visible-flex {
+  display: flex;
+}
